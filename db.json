@@ -80,16 +80,52 @@
     }
   ],
   "selectedPatient": {
-    "id": "9907186283",
-    "name": "Penka",
+    "id": "45323565456",
+    "name": "Bonka",
     "ambolator": [
       {
-        "date": "03/06/2025",
-        "conclusion": "asd1"
+        "date": "16/10/2025",
+        "conclusion": "nish i nqma"
       },
       {
-        "date": "03/06/2026",
-        "conclusion": "asd2"
+        "date": "01/01/2026",
+        "conclusion": "ima i nesh"
+      },
+      {
+        "date": "16/12/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "30/10/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "11/10/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "09/10/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "06/10/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "10/10/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "04/10/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "26/11/2025",
+        "conclusion": "nish i nqma"
+      },
+      {
+        "date": "03/12/2025",
+        "conclusion": "nish i nqma"
       }
     ]
   }
